@@ -3,7 +3,7 @@
   "product": "ProductVideoStudio",
   "version": "1.0.0-RC1",
   "runtime_generation": 1,
-  "published_at": "2026-11-26T10:37:10.225046+00:00",
+  "published_at": "2026-11-26T13:44:20.457987+00:00",
   "notes": [
     "连接器产品视频工作台 V1.0.0-RC1 候选交付版（RC）",
     "三栏桌面工作台布局，支持 1440×900 标准桌面视口首屏操作",
@@ -13,12 +13,12 @@
   "patch": {
     "filename": "ProductVideoStudio_V1.0.0-RC1_Patch.pvs",
     "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0-RC1/ProductVideoStudio_V1.0.0-RC1_Patch.pvs",
-    "bytes": 46572349,
-    "sha256": "2E80AA6556F219407F3B9CB73FDF8E4E3CF93ECC21D39D1B93C369179AA73988",
+    "bytes": 46573015,
+    "sha256": "963AC45D2FF5A7F66C5E5BC47D8D9015C6C09119F24EF46DED176D03A76FB2B4",
     "min_runtime_generation": 1,
     "encryption": {
       "alg": "AES-256-GCM",
-      "wrapped_key_b64": "d5OMVWuj6jBnMV9U5DsTnWjDZfVyC4d1bNQXF+NEHW6zeH7n7Pl1+dsKzTWUkWz6FG2guTbtqcrXAiAB"
+      "wrapped_key_b64": "LoYId4KWE86A4tvWCDl9vgTETxO+pb+2Qf+/pBFIug90PcOeWAf5u2Hh+DPdeh5nvUqG44Y26nh8s5Bh"
     }
   }
 }
