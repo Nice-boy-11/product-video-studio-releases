@@ -1,24 +1,24 @@
 {
   "schema": 1,
   "product": "ProductVideoStudio",
-  "version": "1.0.0",
+  "version": "1.0.0-RC1",
   "runtime_generation": 1,
-  "published_at": "2026-11-26T10:00:31.353346+00:00",
+  "published_at": "2026-11-26T10:37:10.225046+00:00",
   "notes": [
-    "商业级三栏工作台界面，支持 1440×900 标准视口首屏免滚动操作",
-    "光学级透明 PC 外壳折射材质与单规格产品特写构图优化",
-    "新增团队通用授权密钥门禁、原生机器码引导与 AES-256-GCM 核心代码加密保护",
-    "新增零基础图文操作手册与加密在线增量更新（支持国内加速镜像回退）"
+    "连接器产品视频工作台 V1.0.0-RC1 候选交付版（RC）",
+    "三栏桌面工作台布局，支持 1440×900 标准桌面视口首屏操作",
+    "透明 PC 外壳光学折射材质与单规格产品特写构图优化",
+    "支持团队授权密钥激活、核心载荷 AES-256-GCM 加密保护与在线增量升级"
   ],
   "patch": {
-    "filename": "ProductVideoStudio_V1.0.0_Patch.pvs",
-    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0/ProductVideoStudio_V1.0.0_Patch.pvs",
-    "bytes": 46577312,
-    "sha256": "1BD08841DE5FCD9DB9EB281A38E854E4C1520ACD9EBD7AFDFD3397BA7E5BCE57",
+    "filename": "ProductVideoStudio_V1.0.0-RC1_Patch.pvs",
+    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0-RC1/ProductVideoStudio_V1.0.0-RC1_Patch.pvs",
+    "bytes": 46572349,
+    "sha256": "2E80AA6556F219407F3B9CB73FDF8E4E3CF93ECC21D39D1B93C369179AA73988",
     "min_runtime_generation": 1,
     "encryption": {
       "alg": "AES-256-GCM",
-      "wrapped_key_b64": "zOoecG+Cm/sB5M+EAkzbup+VwhGiwxL5fKIeFRymZp6kgeSHgaHEECHiWNK2Ibih1bn7LuXoIkq0JQR9"
+      "wrapped_key_b64": "d5OMVWuj6jBnMV9U5DsTnWjDZfVyC4d1bNQXF+NEHW6zeH7n7Pl1+dsKzTWUkWz6FG2guTbtqcrXAiAB"
     }
   }
 }
