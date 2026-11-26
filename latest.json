@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "product": "ProductVideoStudio",
+  "version": "1.0.0",
+  "runtime_generation": 1,
+  "published_at": "2026-11-26T10:00:31.353346+00:00",
+  "notes": [
+    "商业级三栏工作台界面，支持 1440×900 标准视口首屏免滚动操作",
+    "光学级透明 PC 外壳折射材质与单规格产品特写构图优化",
+    "新增团队通用授权密钥门禁、原生机器码引导与 AES-256-GCM 核心代码加密保护",
+    "新增零基础图文操作手册与加密在线增量更新（支持国内加速镜像回退）"
+  ],
+  "patch": {
+    "filename": "ProductVideoStudio_V1.0.0_Patch.pvs",
+    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0/ProductVideoStudio_V1.0.0_Patch.pvs",
+    "bytes": 46577312,
+    "sha256": "1BD08841DE5FCD9DB9EB281A38E854E4C1520ACD9EBD7AFDFD3397BA7E5BCE57",
+    "min_runtime_generation": 1,
+    "encryption": {
+      "alg": "AES-256-GCM",
+      "wrapped_key_b64": "zOoecG+Cm/sB5M+EAkzbup+VwhGiwxL5fKIeFRymZp6kgeSHgaHEECHiWNK2Ibih1bn7LuXoIkq0JQR9"
+    }
+  }
+}

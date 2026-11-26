@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "issued_at": "2026-11-26T09:35:29.424306+00:00",
+  "public_key_hex": "D38A288EAC0E31CCA7F177F3719260BC73C6A154B7EBF9AE61F9ECF21ECB4B718667882EF37E5DD385ADB5149A952DDE3653E00877BE94E1C6C1E2B32BDFE552",
+  "active_slots": [
+    {
+      "key_id": "kid_24c281a52dec1280",
+      "kdf_salt_hex": "59E4995967E57120C004D6CB46A54202",
+      "kdf_iterations": 200000,
+      "wrapped_master_key_b64": "inJ3f0zXvZEpX6MjddjamvUlvZ4yyy8WKyjMWTywuDU0TDop6C3iXDtyCpYQQnHLFI84IwN9XaeZIR0z",
+      "expires_at": ""
+    }
+  ],
+  "signature_ecdsa_p256_b64": "swU364jA32BIaJjLUXHJhYuHzwpzkeqrOMPd5QaCn7Nzo0IzPMoGKVZ/14AaB27DLSxbKpghouUORkVX9zIRoQ=="
+}
