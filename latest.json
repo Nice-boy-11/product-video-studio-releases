@@ -1,24 +1,24 @@
 {
   "schema": 1,
   "product": "ProductVideoStudio",
-  "version": "1.0.0-RC1",
+  "version": "1.0.0-RC2",
   "runtime_generation": 1,
-  "published_at": "2026-11-26T13:44:20.457987+00:00",
+  "published_at": "2026-11-26T15:39:57.492630+00:00",
   "notes": [
-    "连接器产品视频工作台 V1.0.0-RC1 候选交付版（RC）",
+    "连接器产品视频工作台 V1.0.0-RC2 候选交付版（RC）",
     "三栏桌面工作台布局，支持 1440×900 标准桌面视口首屏操作",
     "透明 PC 外壳光学折射材质与单规格产品特写构图优化",
     "支持团队授权密钥激活、核心载荷 AES-256-GCM 加密保护与在线增量升级"
   ],
   "patch": {
-    "filename": "ProductVideoStudio_V1.0.0-RC1_Patch.pvs",
-    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0-RC1/ProductVideoStudio_V1.0.0-RC1_Patch.pvs",
-    "bytes": 46573015,
-    "sha256": "963AC45D2FF5A7F66C5E5BC47D8D9015C6C09119F24EF46DED176D03A76FB2B4",
+    "filename": "ProductVideoStudio_V1.0.0-RC2_Patch.pvs",
+    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0-RC2/ProductVideoStudio_V1.0.0-RC2_Patch.pvs",
+    "bytes": 46573850,
+    "sha256": "3A8E3F2624CE5867233132127A16387267AA54836766EB6C54A903791598039C",
     "min_runtime_generation": 1,
     "encryption": {
       "alg": "AES-256-GCM",
-      "wrapped_key_b64": "LoYId4KWE86A4tvWCDl9vgTETxO+pb+2Qf+/pBFIug90PcOeWAf5u2Hh+DPdeh5nvUqG44Y26nh8s5Bh"
+      "wrapped_key_b64": "gIQQyd18BggG/T614rCMH6jmPfs5oXDvs3hVVoGikTq1YlxhTZWWTPTDHEzYvGjp0QNq7V1Zmd+e34t5"
     }
   }
 }
