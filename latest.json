@@ -1,24 +1,24 @@
 {
   "schema": 1,
   "product": "ProductVideoStudio",
-  "version": "1.0.0-RC6",
+  "version": "1.0.0-RC7",
   "runtime_generation": 1,
-  "published_at": "2026-11-27T06:54:29.335678+00:00",
+  "published_at": "2026-11-27T07:55:57.378609+00:00",
   "notes": [
-    "连接器产品视频工作台 V1.0.0-RC6 候选交付版（RC）",
-    "新增三维光线追踪渲染设备真机自检与自动回退机制（OPTIX → CUDA → HIP → ONEAPI → CPU），兼容旧版显卡驱动及无独显办公电脑",
-    "原生加密组件改为静态链接运行库，消除纯净系统缺少 vcruntime140.dll 引发的加载异常",
-    "优化渲染失败日志提取与界面错误摘要展示，避免长引导指令截断关键报错原因"
+    "连接器产品视频工作台 V1.0.0-RC7 候选交付版（RC）",
+    "新增硬件加速回退诊断提示：明确展示检测到的显卡驱动版本、回退原因及缺失的硬件或官方驱动版本建议",
+    "支持三维光线追踪渲染设备多级自检回退（OPTIX → CUDA → HIP → ONEAPI → CPU），兼容旧版显卡驱动及无独显电脑",
+    "原生加密组件静态链接运行库并优化渲染异常摘要直显"
   ],
   "patch": {
-    "filename": "ProductVideoStudio_V1.0.0-RC6_Patch.pvs",
-    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0-RC6/ProductVideoStudio_V1.0.0-RC6_Patch.pvs",
-    "bytes": 2053376,
-    "sha256": "DBF6B616CC7F83379D9C200F0CF55DFFA978ED8ADF63DFA2DC4C27DE71E20F11",
+    "filename": "ProductVideoStudio_V1.0.0-RC7_Patch.pvs",
+    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0-RC7/ProductVideoStudio_V1.0.0-RC7_Patch.pvs",
+    "bytes": 2068156,
+    "sha256": "2031E6870EAC9E45F1343616867E9AB9C4B2710AE2726E487E0720A353C3EE2D",
     "min_runtime_generation": 1,
     "encryption": {
       "alg": "AES-256-GCM",
-      "wrapped_key_b64": "Kfa189tShmLmGb/Y1+dHqmm1rsAT4M3C91yIqS5u9q0Nc45POGiAtvq39ix0uH45z3U6Ajhe1/vn/GoC"
+      "wrapped_key_b64": "78CDNO0qYcvC5mCldqrWr0Y0abH0VSFqkG/ZdunfDYxq6M7yWLKmm5JjRTuET+uibvjbXFRRtPLea4Sx"
     }
   }
 }
