@@ -1,24 +1,24 @@
 {
   "schema": 1,
   "product": "ProductVideoStudio",
-  "version": "1.0.0-RC4",
+  "version": "1.0.0-RC5",
   "runtime_generation": 1,
-  "published_at": "2026-11-26T17:24:37.283996+00:00",
+  "published_at": "2026-11-26T20:36:21.385198+00:00",
   "notes": [
-    "连接器产品视频工作台 V1.0.0-RC4 候选交付版（RC）",
+    "连接器产品视频工作台 V1.0.0-RC5 候选交付版（RC）",
     "修复在线升级下载完成后重启生效卡住的问题，升级脚本静默执行并自动重启",
     "纯业务增量更新包仅保留核心更新内容，并支持多源并发测速优选下载",
     "安装版启动时自动修复外部旧工具路径，默认启用内置离线运行组件"
   ],
   "patch": {
-    "filename": "ProductVideoStudio_V1.0.0-RC4_Patch.pvs",
-    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0-RC4/ProductVideoStudio_V1.0.0-RC4_Patch.pvs",
-    "bytes": 2002626,
-    "sha256": "863D8FFD1CA6EF0E3BC4EC72DDAF60367AB16EF9C1EAD58831906F364F214244",
+    "filename": "ProductVideoStudio_V1.0.0-RC5_Patch.pvs",
+    "url": "https://github.com/Nice-boy-11/product-video-studio-releases/releases/download/v1.0.0-RC5/ProductVideoStudio_V1.0.0-RC5_Patch.pvs",
+    "bytes": 2003573,
+    "sha256": "561B387096B74CDB3842D431A1BDC8D20F08BDDA879426CABA379FB8F9859B86",
     "min_runtime_generation": 1,
     "encryption": {
       "alg": "AES-256-GCM",
-      "wrapped_key_b64": "KKzQjmiEbr5h1DiRdhis3Q4xIl2elAMiH6tPsQBMYXSrgeSAKfyXYbcQuPw6X2aYeQo4zpV99ZyWDnjF"
+      "wrapped_key_b64": "hfkTTG6mhSawEbtW9hbXB8SA9gHI0OPejEbJlc/2OwI//j3lDpUYuSIMLAypBvSijK+5dNWwuoNMx7sq"
     }
   }
 }
